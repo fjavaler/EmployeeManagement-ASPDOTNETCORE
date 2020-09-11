@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fjavalera\\Desktop\\Source\\visual-studio-projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\consc\\Desktop\\Source\\Visual Studio Projects\\EmployeeManagement-ASPDOTNETCORE\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fjavalera\\Desktop\\Source\\visual-studio-projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\consc\\Desktop\\Source\\Visual Studio Projects\\EmployeeManagement-ASPDOTNETCORE\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fjavalera\\Desktop\\Source\\visual-studio-projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\consc\\Desktop\\Source\\Visual Studio Projects\\EmployeeManagement-ASPDOTNETCORE\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\fjavalera\\Desktop\\Source\\visual-studio-projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
-        "packagesPath": "C:\\Users\\fjavalera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fjavalera\\Desktop\\Source\\visual-studio-projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "projectPath": "C:\\Users\\consc\\Desktop\\Source\\Visual Studio Projects\\EmployeeManagement-ASPDOTNETCORE\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\consc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\consc\\Desktop\\Source\\Visual Studio Projects\\EmployeeManagement-ASPDOTNETCORE\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fjavalera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\consc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,13 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\fjavalera\\Documents\\NuGet Packages\\GPS.BranchInformation.Messages": {},
-          "C:\\Users\\fjavalera\\Documents\\NuGet Packages\\GPS.Collateral.Api.Domain": {},
-          "C:\\Users\\fjavalera\\Documents\\NuGet Packages\\GPS.DeviceToken.Messages": {},
-          "C:\\Users\\fjavalera\\Documents\\NuGet Packages\\JazzApp": {},
-          "http://dhidev-build.dhicorp.com/nuget/nuget": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.goldpointsystems.com/api/v2": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
